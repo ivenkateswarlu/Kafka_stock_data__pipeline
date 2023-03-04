@@ -4,4 +4,5 @@ This projects aims to create a pipeline for storing the stock market data and ac
 Installed and configured zookeeper, kafka broker (one node broker)
 Created kafka topic
 Tested the the data by sending the data from producer to kafka broker and then consumer access it without any loss of data.
+Successfully stored data in S3 bucket from the consumer
 Used AWS crawler, Anthena 
